@@ -48,15 +48,15 @@ Follows the **MVC pattern**:
    ```bash
    mvn clean install
 
-5. Limitations
-Static frontend design.
-No payment integration or dynamic cart.
-Not optimized for mobile/responsive design.
+5. **Limitations**
+- Static frontend design.
+- No payment integration or dynamic cart.
+- Not optimized for mobile/responsive design.
 
-6.Future Enhancements
-Use JSP tag libraries or integrate Spring MVC for advanced architecture.
-Implement payment gateway or order processing.
-Enhance UI using Bootstrap or React.
+6. **Future Enhancements**
+- Use JSP tag libraries or integrate Spring MVC for advanced architecture.
+- Implement payment gateway or order processing.
+- Enhance UI using Bootstrap or React.
 
-7. Author
-Developed by Manvi Chaturvedi as a part of a personal learning project.
+7. **Author**
+  -Developed by Manvi Chaturvedi as a part of a personal learning project.
